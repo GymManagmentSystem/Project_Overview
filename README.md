@@ -61,6 +61,8 @@ The primary aim of this project is to develop a web application that automates g
 - Display announcements to keep clients informed.
 
 
+<hr>
+
 ## **Adapted Technologies**
 
 ### Front-end Technologies
@@ -79,5 +81,5 @@ The primary aim of this project is to develop a web application that automates g
 - MySQL
 
 
-
+<hr>
 
