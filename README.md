@@ -1,7 +1,7 @@
 # Motion_Zone - Gym Management System
 
 
-## **Chapter 1: Introduction**
+## **Project Overview**
 
 
 ### 1.1 Introduction
