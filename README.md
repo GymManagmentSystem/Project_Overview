@@ -1,4 +1,4 @@
-# Motion_Zone - Gym Management System
+# Motion Zone - Gym Management System
 
 
 ## **Project Overview** 📚
@@ -25,7 +25,7 @@ The primary aim of this project is to develop a web application that automates g
 
 #### Objectives include:
 
-**Admin Panel :**
+**Admin Panel:**
 
 - Enable secure login and registration for admins.
   
@@ -38,7 +38,7 @@ The primary aim of this project is to develop a web application that automates g
 - Visualize total income growth using graphs and manage the creation of new packages.
 
 
-**Client :**
+**Client:**
 
 - Allow clients to register and log in securely.
   
@@ -67,7 +67,7 @@ The primary aim of this project is to develop a web application that automates g
 
 ### 2.1 Front-end Technologies 
 
-- Figma
+- Figma -> [View Design](<https://www.figma.com/design/dYouDPqIB5WYliOqsxkZnn/MotionZone?node-id=0-1&node-type=&t=pYWszLZUhzgGMfvV-0>)
 - React.js
 
 
@@ -79,5 +79,3 @@ The primary aim of this project is to develop a web application that automates g
 ### 2.3 Database Technologies 
 
 - MySQL
-
-
