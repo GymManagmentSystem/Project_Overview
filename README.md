@@ -65,17 +65,17 @@ The primary aim of this project is to develop a web application that automates g
 ## **Adapted Technologies** 🛠️
 
 
-### 2.1 Front-end Technologies 
+### Front-end Technologies 
 
 - Figma : [Motion_Zone](<https://www.figma.com/design/dYouDPqIB5WYliOqsxkZnn/MotionZone?node-id=0-1&node-type=&t=pYWszLZUhzgGMfvV-0>)
 - React.js
 
 
-### 2.2 Back-end Technologies 
+### Back-end Technologies 
 
 - Express.js
 
 
-### 2.3 Database Technologies 
+### Database Technologies 
 
 - MySQL
