@@ -8,6 +8,7 @@
 
 This application for the gym is designed to streamline the operations of both the gym administrators and clients. The admin panel allows gym management to handle client registrations, manage schedules, and track business growth, while the client interface offers users an intuitive way to manage their workout routines, track progress, and handle payments. This system aims to enhance the overall user experience by providing a comprehensive platform for gym management and client engagement.
 
+Here is the Figma link for the UI/UX designs for the project : [Motion_Zone](<https://www.figma.com/design/dYouDPqIB5WYliOqsxkZnn/MotionZone?node-id=0-1&node-type=&t=pYWszLZUhzgGMfvV-0>)
 
 ### Background Motivation 💡
 
@@ -67,7 +68,7 @@ The primary aim of this project is to develop a web application that automates g
 
 ### Front-end Technologies 
 
-- Figma : [Motion_Zone](<https://www.figma.com/design/dYouDPqIB5WYliOqsxkZnn/MotionZone?node-id=0-1&node-type=&t=pYWszLZUhzgGMfvV-0>)
+- Figma 
 - React.js
 
 
